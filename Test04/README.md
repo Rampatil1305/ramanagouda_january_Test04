@@ -38,7 +38,7 @@ Random Forest and Linear Regression provided better performance compared to othe
 This project demonstrates the importance of data preprocessing and model comparison in supervised machine learning. Ensemble models like Random Forest showed improved accuracy.
 
 Algorithm	         R² Score	  Performance (%)
-Linear Regression	 0.28	        38% 
+Linear Regression	 0.38	        38% 
 Decision Tree	     0.94	        94% 
 Random Forest	     0.96–0.98	  96–98% 
 KNN	               0.82–0.88	  82–88% 
